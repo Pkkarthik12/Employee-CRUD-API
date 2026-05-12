@@ -44,7 +44,7 @@ employee-crud-api/
 │   └── routers/
 │       └── employees.py      
 ├── tests/
-│   └── test_employees.py     # Pytest test suite
+│   └── test_employees.py     
 ├── .env.example
 ├── .gitignore
 ├── requirements.txt
