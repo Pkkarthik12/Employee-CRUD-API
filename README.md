@@ -34,7 +34,7 @@ A production-ready RESTful API built with **FastAPI** and **SQLite** for managin
 ```
 employee-crud-api/
 ├── app/
-│   ├── main.py               # FastAPI app & startup
+│   ├── main.py              
 │   ├── database/
 │   │   └── session.py        # DB engine & session
 │   ├── models/
