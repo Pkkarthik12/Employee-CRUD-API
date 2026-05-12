@@ -40,9 +40,9 @@ employee-crud-api/
 │   ├── models/
 │   │   └── employee.py       
 │   ├── schemas/
-│   │   └── employee.py       # Pydantic schemas
+│   │   └── employee.py       
 │   └── routers/
-│       └── employees.py      # CRUD route handlers
+│       └── employees.py      
 ├── tests/
 │   └── test_employees.py     # Pytest test suite
 ├── .env.example
