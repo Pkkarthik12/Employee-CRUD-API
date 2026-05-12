@@ -36,9 +36,9 @@ employee-crud-api/
 ├── app/
 │   ├── main.py              
 │   ├── database/
-│   │   └── session.py        # DB engine & session
+│   │   └── session.py       
 │   ├── models/
-│   │   └── employee.py       # SQLAlchemy model
+│   │   └── employee.py       
 │   ├── schemas/
 │   │   └── employee.py       # Pydantic schemas
 │   └── routers/
